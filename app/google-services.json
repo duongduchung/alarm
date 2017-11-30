@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "405839483049",
+    "firebase_url": "https://vnuk-sharing-c7b76.firebaseio.com",
+    "project_id": "vnuk-sharing-c7b76",
+    "storage_bucket": "vnuk-sharing-c7b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405839483049:android:33442780c239175c",
+        "android_client_info": {
+          "package_name": "vn.edu.vnuk.vnuk_sharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405839483049-0kvj5du8v24qkqmgfiel28hm297p5s86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.vnuk.vnuk_sharing",
+            "certificate_hash": "59026cbed0de97450486a17d51ba6c5ccd35d0b9"
+          }
+        },
+        {
+          "client_id": "405839483049-fupeqfnpt1acaj7fia00n36ki6bffpsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.vnuk.vnuk_sharing",
+            "certificate_hash": "123778ea0afa1f02c6ae2a1d7ff9db128f10f756"
+          }
+        },
+        {
+          "client_id": "405839483049-i20l89aeks6aopk016lsmsf75oadvbv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.vnuk.vnuk_sharing",
+            "certificate_hash": "20b50fc5c8ae45c6a44dc514053caf379f621f18"
+          }
+        },
+        {
+          "client_id": "405839483049-8j3kd2ai5j9fag1vssf5b72bva9qoeff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.vnuk.vnuk_sharing",
+            "certificate_hash": "0d3dcb5ef844d5c854c6279b9b19d7ea83af40e8"
+          }
+        },
+        {
+          "client_id": "405839483049-dnh7j8fj9nu40p10kg2h2t46h5ggh4l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB58rhA_4AHgekDTAimVwCu3Tn3M--WNiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405839483049-dnh7j8fj9nu40p10kg2h2t46h5ggh4l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
